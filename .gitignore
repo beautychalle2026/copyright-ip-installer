@@ -1,0 +1,7 @@
+*.exe
+*.zip
+*.backup
+.env
+.env.*
+node_modules/
+.wrangler/
